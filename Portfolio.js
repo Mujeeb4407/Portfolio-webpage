@@ -6,7 +6,7 @@ const person = {
   contributions: [
     "Led Friday prayers and sermons for over 30 years in Ganmo Central Mosque",
     "Mentored dozens of young scholars in Arabic and Islamic jurisprudence",
-    "Organized annual Maulid Nabiyy celebrations and Tafsir sessions during Ramadan",
+    "OrganizedTafsir sessions during Ramadan",
     "Acted as a mediator in local family and land disputes with wisdom and fairness"
   ],
   publications: [
