@@ -56,6 +56,7 @@ const thirdPublications = document.getElementById("publications3");
 person.contributions.forEach(item => {
   const li = document.createElement("li");
   li.textContent = item;
+
   contributions.appendChild(li);
 });
 
